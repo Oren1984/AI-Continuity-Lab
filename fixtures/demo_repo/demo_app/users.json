@@ -1,0 +1,11 @@
+{
+  "note": "Synthetic demo account. Not a real credential.",
+  "users": [
+    {
+      "email": "visitor@demo.local",
+      "role": "visitor",
+      "salt": "fixture-salt-01",
+      "password_hash": "67db40fc008ba71408889f8945d255425f0b897894cc4f8c9b054df1e1bdbf8a"
+    }
+  ]
+}

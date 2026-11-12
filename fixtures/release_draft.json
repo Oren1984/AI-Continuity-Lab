@@ -1,0 +1,11 @@
+{
+  "version": "v1.0-demo",
+  "title": "Demo release: visitors can try the site",
+  "target": "local-release-registry",
+  "notes": "This release opens the demo site to visitors. Sign-in for the demo is described below.",
+  "signin": {
+    "mode": "credentials",
+    "email": "visitor@demo.local",
+    "password": "try-the-demo"
+  }
+}

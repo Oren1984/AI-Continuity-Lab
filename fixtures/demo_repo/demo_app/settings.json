@@ -1,0 +1,5 @@
+{
+  "app": "demo-release-site",
+  "one_click_demo_entry": false,
+  "note": "Synthetic fixture. One-click entry is intentionally off; see DECISIONS.md DEC-004."
+}

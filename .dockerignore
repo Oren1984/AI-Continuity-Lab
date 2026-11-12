@@ -1,0 +1,8 @@
+.git
+.env
+.env.*
+**/__pycache__
+.pytest_cache
+docs/images
+*.checkpoint.json
+AI-Continuity-Lab-Build-Brief.md
